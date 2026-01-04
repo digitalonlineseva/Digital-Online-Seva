@@ -1,0 +1,7 @@
+{
+  "name": "Digital Online Seva",
+  "description": "A professional digital service gateway for managing government and public utility applications with AI-powered support.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
